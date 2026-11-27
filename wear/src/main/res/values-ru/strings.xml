@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Witness</string>
+    <string name="rec">Запись</string>
+    <string name="stop">Стоп</string>
+    <string name="pause">Пауза</string>
+    <string name="resume">Продолжить</string>
+    <string name="save">Стоп и сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="w_idle_hint">Нажмите, чтобы записать</string>
+    <string name="w_live">Идёт запись</string>
+    <string name="w_queue">В очереди: %1$d · авто-отправка</string>
+    <string name="w_saved">Сохранено</string>
+    <string name="w_autosend">отправится автоматически</string>
+    <string name="sending">Отправка…</string>
+    <string name="sent">Отправлено</string>
+    <string name="queued">В очереди — нет телефона</string>
+    <string name="mic_denied">Нужно разрешение на микрофон</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Witness</string>
+    <string name="rec">Record</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="save">Stop &amp; save</string>
+    <string name="cancel">Cancel</string>
+    <string name="w_idle_hint">Tap to record</string>
+    <string name="w_live">Recording</string>
+    <string name="w_queue">Queued: %1$d · auto-send</string>
+    <string name="w_saved">Saved</string>
+    <string name="w_autosend">will sync automatically</string>
+    <string name="sending">Sending…</string>
+    <string name="sent">Sent</string>
+    <string name="queued">Queued — no phone</string>
+    <string name="mic_denied">Microphone permission required</string>
+</resources>

@@ -1,0 +1,14 @@
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+captures/
+.cxx/
+
+# секреты сборки
+.env.dev
+local.properties
+
+# случайные APK в корне (релизные лежат в releases/)
+/*.apk
